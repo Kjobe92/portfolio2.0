@@ -1,0 +1,22 @@
+header {
+    background-color: black;
+}
+
+nav {
+    text-decoration: none;
+}
+
+nav a {
+    color: white;
+}
+
+nav a:hover {
+    color: grey;
+}
+
+.jumbotron {
+    -webkit-user-select: none;margin: auto; width: 100%; height: auto;
+    background: url('https://thumbs.gfycat.com/QuerulousEnragedHorsemouse-size_restricted.gif');
+    background-size: cover;
+
+}
